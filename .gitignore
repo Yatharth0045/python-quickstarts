@@ -1,0 +1,6 @@
+## Ignore venv
+.venv
+.venv/*
+**/.venv
+**/.venv/*
+test.py
