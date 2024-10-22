@@ -1,0 +1,58 @@
+## Python Quickstart
+
+### Topics Included
+
+- Basics
+    - [Crash Course](basics/0_py_crash_course.py)
+        - [Data Types](basics/0_py_crash_course.py#L3) 
+        - [Output and Print](basics/0_py_crash_course.py#L13)
+        - [User Input](basics/0_py_crash_course.py#L17)
+        - [Operators](basics/0_py_crash_course.py#L22)
+        - [List, Tuple, Dict, Set](basics/0_py_crash_course.py#L66)
+        - [Loops](basics/0_py_crash_course.py#L120)
+        - [String operations](basics/0_py_crash_course.py#L146)
+        - [Comprehentions](basics/0_py_crash_course.py#L180)
+        - [Functions](basics/0_py_crash_course.py#L187)
+        - [Args and Kwargs](basics/0_py_crash_course.py#L200)
+        - [Variable scope](basics/0_py_crash_course.py#L220)
+        - [Exception](basics/0_py_crash_course.py#L234)
+        - [Lambda](basics/0_py_crash_course.py#L246)
+        - [Map, Filter](basics/0_py_crash_course.py#L251)
+        - [F Strings](basics/0_py_crash_course.py#L257)
+    - [Python 101](basics/python_101.py) 
+        - [Immutable and Mutable Datatypes](basics/python_101.py#L4)
+        - [List Comprehentions](basics/python_101.py#L29)
+        - [Function args, Args and Kwargs](basics/python_101.py#L34)
+- Coding Patterns
+    - [Fast & Slow Pointers](coding_patterns/fast_slow_pointers.py)
+    - [In Place Reversal](coding_patterns/in_place_reversal.py)
+    - [Monotonic Stack](coding_patterns/monotonic_stack.py)
+    - [Prefix Sum Pattern](coding_patterns/prefix_sum_pattern.py)
+    - [Sliding Window](coding_patterns/sliding_window_pattern.py)
+    - [Two Pointer](coding_patterns/two_pointers_pattern.py)
+- Problem Statements
+    - [Check JSON Schema](problems/check_json_against_schema.py)
+    - [Check Palindrome](problems/check_palindrome.py)
+    - [Excel Update](problems/excel_update.py)
+    - [Find Email](problems/find_email.py)
+    - [Get Env](problems/get_env.py)
+    - [Get Primes](problems/get_primes.py)
+    - [Get Substring Unique Characters](problems/get_substr_uniq_char.py)
+    - [Pattern Sum](problems/pattern_sum.py)
+- Tips
+    - [Print `end` and `sep`](tips/script.py#L3)
+    - [Divmod](tips/script.py#L8)
+    - [List `all` and `any`](tips/script.py#L16)
+    - [Class Attributes](tips/script.py#L21)
+    - [Enumerate](tips/script.py#L37)
+    - [Map, Reduce, Filter](tips/script.py#L44)
+    - [Sorting](tips/script.py#L58)
+    - [Custom sort, max, min](tips/script.py#L66)
+- W3School Timeline
+    - [Day 0](w3_schools/0_get_started.py)
+        - Sys Package
+        - Comments
+            - Single Line 
+            - Multiline
+        - Global variables
+        - Datatypes
