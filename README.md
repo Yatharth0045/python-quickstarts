@@ -30,6 +30,8 @@
     - [Prefix Sum Pattern](coding_patterns/prefix_sum_pattern.py)
     - [Sliding Window](coding_patterns/sliding_window_pattern.py)
     - [Two Pointer](coding_patterns/two_pointers_pattern.py)
+- Python Dependency Management
+    - [pyproject.toml](py_project/pyprojectdemo/pyproject.toml)
 - Problem Statements
     - [Check JSON Schema](problems/check_json_against_schema.py)
     - [Check Palindrome](problems/check_palindrome.py)

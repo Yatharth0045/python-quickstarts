@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pyprojectdemo"
+version = "0.1.0"
+description = ""
+authors = ["Yatharth Sharma <yatharth0045@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.32.3"
+
+[tool.poetry.group.dev.dependencies]
+mypy = "^1.13.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
